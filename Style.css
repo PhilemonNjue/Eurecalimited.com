@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding:0;
+}
+ul{
+	
+	
+}
+ul li{
+	list-style:none;
+	float:left;
+	display: inline-block;
+}
+
+ul li a {
+	text-decoration:none;
+	padding:0 20px;
+	front-weight:bold;
+	color:000;
+	background-color:#ffffff;
+}
+
+body{
+	background:#196dff;
+	text-align:right;
+	color:#ffffff;
+
+}
+img{
+	float:right;
+		height:200;
+		width:300;
+		border:solid black 1px; padding:2px;
+	
+	}
